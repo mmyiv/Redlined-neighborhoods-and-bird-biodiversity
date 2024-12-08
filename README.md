@@ -10,6 +10,7 @@ This repository showcases an exploration in map making by displaying redlined ne
 
 ## Repository Structure
 
+```
 │   README.md
 │   redlined_biodiversity.qmd
 │   .gitignore
@@ -17,6 +18,7 @@ This repository showcases an exploration in map making by displaying redlined ne
      └───ejscreen
      └───gbif-birds-LA
      └───mapping-inequality
+```
 
 ## Data Access
 
